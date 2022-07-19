@@ -1,0 +1,6 @@
+1º ) criar executar scripts da pasta : Scripts-Banco na ordem
+
+2º ) ao abrir aplicação front-end , executar comando 'npm install'
+
+
+3º ) ao abrir aplicação backend , executar botão direito na solçao do projeto > selecione > executar 'Build'
